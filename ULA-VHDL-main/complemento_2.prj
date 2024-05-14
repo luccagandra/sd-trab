@@ -1,0 +1,3 @@
+vhdl work "ula_somador.vhd"
+vhdl work "somador_4_bits.vhd"
+vhdl work "complemento_2.vhd"
